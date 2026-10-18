@@ -1,4 +1,4 @@
-# spookscroll 👻
+# Spookscroll 👻
 
 Spookscroll is a browser extension powered by a local open-weight AI model that quietly detects heavy, stressful, and negative "doom-and-gloom" content as you browse, startling you out of the cycle with a spooky warning message and an audio cue.
 
