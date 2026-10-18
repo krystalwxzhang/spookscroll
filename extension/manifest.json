@@ -14,7 +14,7 @@
     "js": ["content.js"]
   }],
   "web_accessible_resources": [{
-    "resources": ["scare.jpg", "scream.mp3"],
+    "resources": ["scare.jpg", "scream.m4a"],
     "matches": ["<all_urls>"]
   }]
 }
