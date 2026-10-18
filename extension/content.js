@@ -50,7 +50,7 @@ function jumpscare(message) {
   overlay.append(img, text, button);
   document.body.appendChild(overlay);
 
-  const sound = new Audio(chrome.runtime.getURL("scream.mp3"));
+  const sound = new Audio(chrome.runtime.getURL("scream.m4a"));
   sound.volume = 0.3;
   sound.play().catch(() => {});
 
