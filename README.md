@@ -2,7 +2,11 @@
 
 **What it does**
 
-We live in an era of bottomless algorithmic feeds where standard self-control completely breaks down. Traditional screen-time limits rely on gentle nudges that users habitually swipe away. Spookscroll stops doomscrolling by using computer vision and Gemma to force instant, unavoidable self-awareness.
+We live in an era of bottomless algorithmic feeds where standard self-control completely breaks down. 
+
+Traditional screen-time limits rely on gentle nudges that users habitually swipe away. Spookscroll stops doomscrolling by using computer vision and Gemma to force instant, unavoidable self-awareness.
+
+- 
 
 **🚀 What It Does**
 
