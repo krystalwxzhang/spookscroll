@@ -27,7 +27,3 @@ Spookscroll acts as an automated, privacy-friendly circuit breaker. It intercept
 - **AI Engine:** Uses **Ollama** running locally with the lightweight open-weight **`gemma3:1b`** model (under 10B parameters) set to zero temperature for deterministic, reliable text classification.
 - **Extension:** A browser extension that reads active tab text, sends it to the FastAPI backend, and triggers visual alerts and audio warnings (`extension/screeching audio.m4a`) when doomscrolling is detected.
 
-
-# **Accomplishments that we're proud of**
-
-# **What we learned**
