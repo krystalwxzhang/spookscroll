@@ -8,7 +8,7 @@ We live in an era of bottomless algorithmic feeds where standard self-control co
 
 - Uses Behavioral Tracking: It monitors scroll velocity and gaze patterns in real-time.
 
--  When it detects erratic scrolling or a catatonic, blank stare, it forcefully locks down the browser tab.
+-  When it detects erratic scrolling or looking down, it forcefully locks down the browser tab.
 
 - It snaps a silent local frame of your face, triggers a full-screen dystopian overlay, and uses Gemma to generate a hyper-specific, unhinged audio-visual roast detailing exactly how much time you've wasted.
 
