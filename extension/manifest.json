@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Doomscroll Jumpscare",
+  "version": "0.1",
+  "host_permissions": ["http://localhost:8000/*"],
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [{
+    "matches": [
+      "*://*.youtube.com/*",
+      "*://*.instagram.com/*",
+      "*://*.twitter.com/*",
+      "*://*.x.com/*"
+    ],
+    "js": ["content.js"]
+  }],
+  "web_accessible_resources": [{
+    "resources": ["scare.jpg", "scream.mp3"],
+    "matches": ["<all_urls>"]
+  }]
+}
