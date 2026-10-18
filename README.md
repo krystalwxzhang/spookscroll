@@ -19,7 +19,6 @@ Spookscroll acts as an automated, privacy-friendly circuit breaker. It intercept
 
 - It snaps a silent local frame of your face, triggers a full-screen dystopian overlay, and uses Gemma to generate a hyper-specific, unhinged audio-visual roast detailing exactly how much time you've wasted.
 
-- To unlock your feed, you have to survive an active mini-game or type out an antidote phrase to prove you're conscious.
   
 # **How It's Built**
 
